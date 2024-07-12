@@ -1,0 +1,3 @@
+- Understanding what one pixel attack is (how do perturbations and differential evolution Works)
+- What is attention mechanism in deep learning?
+- Observe if the responses of an ordinary CNN architecture and CNN-Attention based architecture are different (can attention mechanism avoid and misguidance of one-pixel attack)
